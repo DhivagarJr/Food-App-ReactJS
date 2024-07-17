@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Food-App-ReactJS/static/css/main.e499a3a5.css",
+    "main.js": "/Food-App-ReactJS/static/js/main.45e712fb.js",
+    "static/media/home-banner-image.png": "/Food-App-ReactJS/static/media/home-banner-image.2389933e9572d9e8ee98.png",
+    "static/media/about-background-image.png": "/Food-App-ReactJS/static/media/about-background-image.b5abb436192206e6d4d9.png",
+    "static/media/john-doe-image.png": "/Food-App-ReactJS/static/media/john-doe-image.36d190d5a720a581b039.png",
+    "static/media/about-background.png": "/Food-App-ReactJS/static/media/about-background.17ee4ad5e16611b388cd.png",
+    "static/media/the-wave-logo.png": "/Food-App-ReactJS/static/media/the-wave-logo.f922618b5b914f343eff.png",
+    "static/media/home-banner-background.png": "/Food-App-ReactJS/static/media/home-banner-background.2d1c7cc3ea45bf373590.png",
+    "static/media/delivery-image.png": "/Food-App-ReactJS/static/media/delivery-image.ccbe75f058e271f9ec98.png",
+    "static/media/pick-meals-image.png": "/Food-App-ReactJS/static/media/pick-meals-image.0d79b07d01a68a1b6caa.png",
+    "static/media/choose-image.png": "/Food-App-ReactJS/static/media/choose-image.8fbd0b85abb01b57e927.png",
+    "index.html": "/Food-App-ReactJS/index.html",
+    "main.e499a3a5.css.map": "/Food-App-ReactJS/static/css/main.e499a3a5.css.map",
+    "main.45e712fb.js.map": "/Food-App-ReactJS/static/js/main.45e712fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e499a3a5.css",
+    "static/js/main.45e712fb.js"
+  ]
+}
